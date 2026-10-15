@@ -1,3 +1,7 @@
 *.db
 claude_desktop_config.json
 whatsapp.log
+# Local WhatsApp session, messages, media, logs and build output
+whatsapp-bridge/store/
+*.log
+whatsapp-bridge/wa-bridge
